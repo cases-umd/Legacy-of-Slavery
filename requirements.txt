@@ -1,10 +1,10 @@
 anyio==2.2.0
 argon2-cffi==20.1.0
-async_generator==1.1
+async_generator==1.10
 attrs==20.3.0
 babel==2.9.0
 backcall==0.2.0
-blas==1
+blas==1.0
 bleach==3.3.0
 bokeh==2.3.1
 boost-cpp==1.74.0
@@ -14,7 +14,7 @@ ca-certificates==2021.1.19
 cairo==1.16.0
 certifi==2020.12.5
 cffi==1.14.5
-cfitsio==3.47
+cfitsio==3.470
 chardet==4.0.0
 chart-studio==1.1.0
 click==7.1.2
@@ -43,7 +43,7 @@ git==2.23.0
 hdf4==4.2.13
 hdf5==1.10.6
 icu==68.1
-idna==2.1
+idna==2.10
 importlib-metadata==3.10.0
 importlib_metadata==3.10.0
 intel-openmp==2020.2
@@ -132,7 +132,7 @@ postgresql==13.1
 proj==8.0.0
 prometheus_client==0.10.0
 prompt-toolkit==3.0.17
-pycparser==2.2
+pycparser==2.20
 pygments==2.8.1
 pyopenssl==20.0.1
 pyparsing==2.4.7
