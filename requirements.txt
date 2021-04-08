@@ -4,7 +4,7 @@ async_generator==1.10
 attrs==20.3.0
 babel==2.9.0
 backcall==0.2.0
-blas==1.0
+#blas==1.0
 bleach==3.3.0
 bokeh==2.3.1
 boost-cpp==1.74.0
