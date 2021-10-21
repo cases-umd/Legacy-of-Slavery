@@ -2,7 +2,7 @@ anyio==2.2.0
 argon2-cffi==20.1.0
 async_generator==1.10
 attrs==20.3.0
-babel==2.9.0
+babel==2.9.1
 backcall==0.2.0
 #blas==1.0
 bleach==3.3.0
