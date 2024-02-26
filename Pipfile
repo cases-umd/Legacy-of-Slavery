@@ -29,6 +29,7 @@ python-dateutil = "*"
 scipy = "*"
 shapely = "*"
 wordcloud = "*"
+cufflinks = "*"
 
 [dev-packages]
 notebook = "*"
